@@ -28,7 +28,6 @@
 
 				<!-- Header Control Column -->
 				<a-col :span="24" :md="18" class="header-control">
-
 					<!-- Header Control Buttons -->
 					<a-dropdown :trigger="['click']" overlayClassName="header-notifications-dropdown" :getPopupContainer="() => wrapper">
 						<a-badge count="4">
